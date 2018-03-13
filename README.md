@@ -1,5 +1,4 @@
 # Lessons-Learned
-###Version Control
 ####Questions
 
 >Why would you want to version control your code?
